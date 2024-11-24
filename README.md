@@ -1,5 +1,5 @@
 
-[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&color=4440FF&pause=500&center=true&random=false&width=1200&lines=👋+Hey+there!+Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=4440FF&pause=500&center=true&random=false&width=1200&lines=👋+Hey+there!+Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 # I'm Mechwii, a passionate student in Computer Science and a versatile Fullstack Developer. 🚀
 
