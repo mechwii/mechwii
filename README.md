@@ -1,6 +1,6 @@
 [![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=4440FF&pause=500&center=true&random=false&width=1200&lines=👋+Hey+there!+Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
-I'm Mechwii, a passionate student in Computer Science and a versatile Fullstack Developer. 🚀
+# I'm Mechwii, a passionate student in Computer Science and a versatile Fullstack Developer. 🚀
 
 ## 🔭 What I'm currently working on:
 
@@ -8,19 +8,21 @@ I'm Mechwii, a passionate student in Computer Science and a versatile Fullstack 
 - Exploring new technologies and frameworks 🛠️
 - Contributing to open-source projects 🌱
 
-## 💻 Technologies I work with:
+## 💻 My skills 
 
-Languages : 
-Java, Python, C, C++, Kotlin, Swift 
+### 🌍 Languages : 
+  ![](https://skillicons.dev/icons?i=java,c,cpp,py,html,css,js,kotlin,swift)
 
-Frontend: 
-HTML, CSS, JavaScript, Vue.js
+### ⚙ Frameworks :  
+  ![](https://skillicons.dev/icons?i=vue,nodejs,react,nextjs,spring,qt)
 
-Backend: 
-Node.js
+### 💾 Storages : 
+  ![](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
 
-Databases:
-PostgreSQL, MongoDB
+### 🔧 Utils :
+  ![](https://skillicons.dev/icons?i=linux,windows,github,docker)
+### Softwares : 
+  ![](https://skillicons.dev/icons?i=ps,pr,figma)
 
 
 <!---
@@ -36,12 +38,7 @@ Check out my portfolio 🌟
 
 ## Check my project
 
-### Take a look at my projects
-
 [🗂️ Projects](https://github.com/mhammeDev?tab=repositories)
-
-
-
 
 <!---
 mhammeDev/mhammeDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
