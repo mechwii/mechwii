@@ -16,7 +16,7 @@
 ### ⚙ Frameworks :  
   ![](https://skillicons.dev/icons?i=vue,nodejs,react,nextjs,spring,qt)
 
-### 💾 Storages : 
+### 💾 Databases : 
   ![](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
 
 ### 🔧 Utils :
