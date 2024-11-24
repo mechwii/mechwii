@@ -1,5 +1,5 @@
 # 👋 Hey there! Welcome to my GitHub profile!
-I'm Mhammedev, a passionate student in Computer Science and a versatile Fullstack Developer. 🚀
+I'm Mechwii, a passionate student in Computer Science and a versatile Fullstack Developer. 🚀
 
 ## 🔭 What I'm currently working on:
 
