@@ -1,3 +1,6 @@
+
+
+
 [![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&color=4440FF&pause=500&center=true&random=false&width=1200&lines=I'm+Mechwii+a+passionate+student+in+Computer+Science+🚀)](https://git.io/typing-svg)
 
 ## 🔭 What I'm currently working on:
