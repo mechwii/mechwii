@@ -9,7 +9,7 @@
 - Exploring new technologies and frameworks 🛠️
 - Contributing to open-source projects 🌱
 
-## 💻 My skills 
+## ⌨️ My skills 
 
 ### 🌍 Languages : 
   ![](https://skillicons.dev/icons?i=java,c,cpp,py,html,css,js,kotlin,swift)
@@ -22,7 +22,7 @@
 
 ### 🔧 Utils :
   ![](https://skillicons.dev/icons?i=linux,windows,github,docker)
-### Softwares : 
+### 💻 Softwares : 
   ![](https://skillicons.dev/icons?i=ps,pr,figma)
 
 
