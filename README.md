@@ -31,8 +31,7 @@
 
 Connect on [LinkedIn 💼](https://www.linkedin.com/in/m-hammed-mechroubi-a3134a275/) or my mail : m.mechroubicontact@gmail.com
 
-Check out my portfolio 🌟
-mhammed-mechroubi.fr
+Check out my [portfolio](https://www.mhammed-mechroubi.fr) 🌟
 
 ## Check my project
 
