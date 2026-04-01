@@ -26,21 +26,17 @@
   ![](https://skillicons.dev/icons?i=ps,pr,figma)
 
 
-<!---
-📚 Learning and Growing:
-Currently diving into Machine Learning 🤖
-Enhancing my knowledge of cloud computing ☁️
---->
 
 ## 📫 Let's connect:
 
 Connect on [LinkedIn 💼](https://www.linkedin.com/in/m-hammed-mechroubi-a3134a275/) or my mail : m.mechroubicontact@gmail.com
+
 Check out my portfolio 🌟
+mhammed-mechroubi.fr
 
 ## Check my project
 
 [🗂️ Projects](https://github.com/mechwii?tab=repositories)
-[🌐 Portfolio](mhammed-mechroubi.fr)
 
 
 <!---
